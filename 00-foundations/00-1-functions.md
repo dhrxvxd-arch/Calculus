@@ -6,7 +6,7 @@ A **Function** is a rule that takes an input and produces **only one output** fo
 
 Think of it like a machine: you put a number in, the machine does something to it, and you get a number out
 
-![Function as a Machine](./.assets/function-machine.png)
+![Function as a Machine](../.assets/function-machine.png)
 
 Example notation for a function:
 $$
