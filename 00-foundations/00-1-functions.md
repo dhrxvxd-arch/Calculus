@@ -30,7 +30,7 @@ Notice that $f(x)$ means "**f of x**" and not $f \cdot x$.
 
 ## What makes a rule a function
 
-The Most important rule is:
+The most important rule is:
 **Every valid input must have exactly one output.**
 - One input -> one output: valid
 - Two input -> same output: valid
